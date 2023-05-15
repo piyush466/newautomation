@@ -1,0 +1,35 @@
+2023-05-15 16:00:05,553: INFO: ********test start***********
+2023-05-15 16:00:07,755: INFO: username is:- student
+2023-05-15 16:00:07,824: INFO: password is:- Password123
+2023-05-15 16:00:09,138: INFO: Click on Submit:-submit
+2023-05-15 16:00:09,138: DEBUG: ******Test passed***********
+2023-05-15 16:01:05,664: INFO: ********test start***********
+2023-05-15 16:01:08,143: INFO: username is:- student
+2023-05-15 16:01:08,207: INFO: password is:- Password123
+2023-05-15 16:01:09,454: INFO: Click on Submit:-submit
+2023-05-15 16:01:09,454: DEBUG: ******Test passed***********
+2023-05-15 16:02:23,177: INFO: ********test start***********
+2023-05-15 16:02:25,238: INFO: username is:- student
+2023-05-15 16:02:25,305: INFO: password is:- Password123
+2023-05-15 16:02:26,566: INFO: Click on Submit:-submit
+2023-05-15 16:02:26,566: DEBUG: ******Test passed***********
+2023-05-15 16:22:33,834: INFO: ********test start***********
+2023-05-15 16:22:35,918: INFO: username is:- student
+2023-05-15 16:22:35,993: INFO: password is:- Password123
+2023-05-15 16:22:41,841: INFO: Click on Submit:-submit
+2023-05-15 16:22:41,841: DEBUG: ******Test passed***********
+2023-05-15 16:23:45,449: INFO: ********test start***********
+2023-05-15 16:23:55,169: INFO: username is:- student
+2023-05-15 16:23:55,239: INFO: password is:- Password123
+2023-05-15 16:23:56,523: INFO: Click on Submit:-submit
+2023-05-15 16:23:56,523: DEBUG: ******Test passed***********
+2023-05-15 16:24:33,660: INFO: ********test start***********
+2023-05-15 16:24:35,789: INFO: username is:- student
+2023-05-15 16:24:35,855: INFO: password is:- Password123
+2023-05-15 16:24:37,185: INFO: Click on Submit:-submit
+2023-05-15 16:24:37,185: DEBUG: ******Test passed***********
+2023-05-15 16:25:31,301: INFO: ********test start***********
+2023-05-15 16:25:33,391: INFO: username is:- student
+2023-05-15 16:25:33,463: INFO: password is:- Password123
+2023-05-15 16:25:35,124: INFO: Click on Submit:-submit
+2023-05-15 16:25:35,124: DEBUG: ******Test passed***********
